@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection Question 2/Collection Question 2.iml" filepath="$PROJECT_DIR$/Collection Question 2/Collection Question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection Question 3/Collection Question 3.iml" filepath="$PROJECT_DIR$/Collection Question 3/Collection Question 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections Questions 1/Collections Questions 1.iml" filepath="$PROJECT_DIR$/Collections Questions 1/Collections Questions 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Question 1/Exception Question 1.iml" filepath="$PROJECT_DIR$/Exception Question 1/Exception Question 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Question 2/Exception Question 2.iml" filepath="$PROJECT_DIR$/Exception Question 2/Exception Question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Question 3/Exception Question 3.iml" filepath="$PROJECT_DIR$/Exception Question 3/Exception Question 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Question 4/Exception Question 4.iml" filepath="$PROJECT_DIR$/Exception Question 4/Exception Question 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Question 5/Exception Question 5.iml" filepath="$PROJECT_DIR$/Exception Question 5/Exception Question 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic Question 1/Generic Question 1.iml" filepath="$PROJECT_DIR$/Generic Question 1/Generic Question 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics Questions 2/Generics Questions 2.iml" filepath="$PROJECT_DIR$/Generics Questions 2/Generics Questions 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Question 1/Practice Question 1.iml" filepath="$PROJECT_DIR$/Practice Question 1/Practice Question 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Question 2/Practice Question 2.iml" filepath="$PROJECT_DIR$/Practice Question 2/Practice Question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread Question 1/Thread Question 1.iml" filepath="$PROJECT_DIR$/Thread Question 1/Thread Question 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread Question 2/Thread Question 2.iml" filepath="$PROJECT_DIR$/Thread Question 2/Thread Question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread Question 6/Thread Question 6.iml" filepath="$PROJECT_DIR$/Thread Question 6/Thread Question 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads Question 3/Threads Question 3.iml" filepath="$PROJECT_DIR$/Threads Question 3/Threads Question 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads Question 5/Threads Question 5.iml" filepath="$PROJECT_DIR$/Threads Question 5/Threads Question 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trying Collections/Trying Collections.iml" filepath="$PROJECT_DIR$/Trying Collections/Trying Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryingIdea/TryingIdea.iml" filepath="$PROJECT_DIR$/TryingIdea/TryingIdea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Question 1/Wrapper Question 1.iml" filepath="$PROJECT_DIR$/Wrapper Question 1/Wrapper Question 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Question 2/Wrapper Question 2.iml" filepath="$PROJECT_DIR$/Wrapper Question 2/Wrapper Question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Question 3/Wrapper Question 3.iml" filepath="$PROJECT_DIR$/Wrapper Question 3/Wrapper Question 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Question 4/Wrapper Question 4.iml" filepath="$PROJECT_DIR$/Wrapper Question 4/Wrapper Question 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Question 5/Wrapper Question 5.iml" filepath="$PROJECT_DIR$/Wrapper Question 5/Wrapper Question 5.iml" />
     </modules>
   </component>
 </project>
